@@ -14,6 +14,8 @@ With a 3 month timeline and brief received,
 - Remove values you do not need to work with in your analysis
   
 ### Findings and Visualizations
+![Bar Charts showing Top Categories & Content Types](https://github.com/AnthoniaUdomoh/Accenture-Analysis/blob/main/Bar%20Charts-%20Categories%20%26%20Posts.png)
+![Pie Chart showing Months with Top Posts](https://github.com/AnthoniaUdomoh/Accenture-Analysis/blob/main/Pie%20Chart%20-Month.png)
 
 ## Further Resources
 - Excel sheets
